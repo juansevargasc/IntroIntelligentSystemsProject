@@ -1,4 +1,18 @@
-# Proyecto Trip Advisot Hotel Reviews
+# Proyecto Trip Advisor Hotel Reviews
+
+   Introducción a los Sistemas Inteligentes
+   Proyecto Final 
+   2021 - I
+
+
+REPORTE
+
+*Investigación de Datos: Reseñas de Tripadvisor*
+
+Juan Sebastián Vargas Castañeda - **Ingeniería de Sistemas y Computación** 
+
+![Copia de logosimbolo_central_2c](https://user-images.githubusercontent.com/30605037/129082498-383d5a2e-54f8-4e21-8b2e-ca1a7df8e9c1.png)
+
 
 ## INTRODUCCIÓN
 
@@ -38,6 +52,7 @@ El presente proyecto es una pequeña investigación sobre los datos proporcionad
 
 En la actualidad la industria hotelera está atravesando un capítulo particular en nuestra era moderna: la pandemia. Es en realidad uno de los sectores más afectados y a esto hay que sumarle un fenómeno que provenía de hace varios años, las startups tecnológicas que cambiaron el paradigma. Es decir Airbnb y compañía; esto último no obstante no ha sido necesariamente un factor negativo, pues así como surgieron plataformas para cambiar el modelo de negocio, surgieron plataformas para amplificar el modelo tradicional. Las agencias de viaje operan de manera muy diferente y están muy involucradas con plataformas de reserva de viaje como Booking ® o Tripadvisor ®, y las de reserva de vuelos como Kayak ® , entre otras. Y de no ser por la pandemia sería una industria en crecimiento y en momento de éxito de negocios, dado el comportamiento presentado en 2019 [1].
 
+![reporte - proyecto final](https://user-images.githubusercontent.com/30605037/129083215-7d3979dd-06bd-45c1-8547-947531e269c1.png)
 
 
 Infografía. Datos del año 2018 [4]
